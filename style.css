@@ -1,0 +1,39 @@
+* #Nency {
+  margin: 10px 10px 10px 10px;
+  width: 180px;
+  height: 200px;
+}
+.footer {
+  background-color: #eea8ee;
+  color: #000000;
+  padding-bottom: 2px;
+  text-align: center;
+  padding-top: 15px;
+}
+.btn {
+  float: right;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.navbar {
+  background-color: #ca2fca;
+}
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #eea8ee;
+  text-align: center;
+}
+.display-4 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+#tentangsaya {
+  background-color: #ecc6ee;
+  padding-top: 5rem;
+}
+h3 {
+  font-size: 18px;
+  text-align: center;
+}
+td {
+  font-family: sans-serif;
+}
